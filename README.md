@@ -1,7 +1,7 @@
 # SDLC-Sim2
 GOAP simulator using SDLC as an example.
 
-An example of interactions of various workers in a dev office. This is a representation of the Agile SCRUM framework (showing workflow).  
+An example covering interactions of various workers in a development office (every room has its own purpose for each worker). This is a representation of the Agile SCRUM framework (showing workflow).  
 
 Role by capsule color: 
 - Gray: Customer 
