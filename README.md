@@ -26,3 +26,5 @@ Subtle humor
 Some of the capsules do a circular dance with each other (metaphiorcal to events in real life).
 The Rest and Rectreaction area is never visited... we're working the staf at 100% (no breaks!)
 
+Unity Editor version
+2019.3.5f1
