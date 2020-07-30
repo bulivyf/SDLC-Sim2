@@ -23,6 +23,7 @@ Workflow Steps
 4. Tester tests implemented result to confirm the result is in line with the requirement definition. Delivered is inc by 1. 
 
 Subtle humor
+
 Some of the capsules do a circular dance with each other (metaphiorcal to events in real life).
 The Rest and Rectreaction area is never visited... we're working the staf at 100% (no breaks!)
 
