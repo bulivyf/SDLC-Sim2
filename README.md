@@ -8,7 +8,7 @@ Role by capsule color:
 - Dark Blue: Requirements manager (dev team) 
 - Yellow: Product owner 
 - Green: Developer (dev team) 
--Light blue: tester (Dev Test) 
+- Light blue: tester (Dev Test) 
 
 Artifacts (items that are processed in this simulation): 
 - Defined Requirement 
